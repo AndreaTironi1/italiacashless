@@ -2,7 +2,7 @@
 A partire dal 1 gennaio 2021, Bancomat, Mastercard e Visa, al fianco di tutti i principali player del settore dei pagamenti, avvieranno un progressivo aumento della soglia per pagamenti contactless a 50 euro, al di sotto dei quali non sarà più previsto l'inserimento del codice Pin. 
 <br>Fonte: [IlSole24ore](https://www.ilsole24ore.com/art/pagamenti-contactless-fino-50-euro-senza-bisogno-inserire-codice-pin-ADuKQng)
 
-### 01.07.202 - 
+### 01.07.2020 - Credito d’imposta pagamenti digitale e limiti contante a 2000 euro
 Dal primo luglio entrano in vigore le agevolazioni sui pagamenti elettronici e scende a 2mila euro il tetto massimo del contante utilizzabile nelle transazioni fra privati, come previsto dal decreto fiscale collegato alla manovra 2020 (articoli 18 e 22 del dl 124/2019).
 Bonus pagamenti elettronici
 L’incentivo sui pagamenti digitali è un credito d’imposta, riconosciuto agli esercenti attività di impresa, arte o professioni con ricavi o compensi nell’anno precedente fino a 400mila euro. Il bonus è pari al 30% delle commissioni sulle operazioni con carte (di credito, debito o prepagate) o altri strumenti di pagamento elettronici tracciabili, nei confronti di consumatori finali (persone fisiche che agiscono per scopi estranei all’attività eventualmente svolta).
