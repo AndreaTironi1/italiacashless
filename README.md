@@ -6,6 +6,11 @@ Articoli 18 e 22 del dl 124/2019.
 A partire dal 1 gennaio 2021, Bancomat, Mastercard e Visa, al fianco di tutti i principali player del settore dei pagamenti, avvieranno un progressivo aumento della soglia per pagamenti contactless a 50 euro, al di sotto dei quali non sarà più previsto l'inserimento del codice Pin. 
 <br>Fonte: [IlSole24ore](https://www.ilsole24ore.com/art/pagamenti-contactless-fino-50-euro-senza-bisogno-inserire-codice-pin-ADuKQng)
 
+### 01.01.2021 - Lotteria degli scontrini
+Avvio della Lotteria degli scontrini posticipato al 01.01.2021.
+<br>Fonte: [DECRETO-LEGGE 14 agosto 2020, n. 104](https://www.gazzettaufficiale.it/eli/id/2020/08/14/20G00122/sg) (richiama All'articolo 141, del decreto-  legge  19  maggio  2020,  n.  34 convertito, con modificazioni, dalla legge 17  luglio  2020,  n.  77)
+
+
 ### 01.07.2020 - Credito d’imposta pagamenti digitale e limite contante a 2000 euro
 Dal primo luglio entrano in vigore le agevolazioni sui pagamenti elettronici e scende a 2mila euro il tetto massimo del contante utilizzabile nelle transazioni fra privati, come previsto dal decreto fiscale collegato alla manovra 2020 (articoli 18 e 22 del dl 124/2019).
 Bonus pagamenti elettronici
