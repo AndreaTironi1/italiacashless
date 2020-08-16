@@ -8,8 +8,8 @@ A partire dal 1 gennaio 2021, Bancomat, Mastercard e Visa, al fianco di tutti i 
 
 ### 01.01.2021 - Lotteria degli scontrini
 Avvio della Lotteria degli scontrini posticipato al 01.01.2021.
-<br>Fonte: [DECRETO-LEGGE 14 agosto 2020, n. 104](https://www.gazzettaufficiale.it/eli/id/2020/08/14/20G00122/sg) 
-<br>(richiama All'articolo 141, del decreto-  legge  19  maggio  2020,  n.  34 convertito, con modificazioni, dalla legge 17  luglio  2020,  n.  77)
+<br>Fonte: [Decreto Legge 19 maggio  2020, n.34, articolo 141](https://www.gazzettaufficiale.it/eli/id/2020/05/19/20G00052/sg) 
+<br>(Decreto Legge 19 maggio 2020, n. 34 convertito, con modificazioni, dalla legge 17  luglio  2020,  n.  77, senza modifiche per articolo 141)
 
 
 ### 01.07.2020 - Credito d’imposta pagamenti digitale e limite contante a 2000 euro
