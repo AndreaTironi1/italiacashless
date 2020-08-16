@@ -11,12 +11,10 @@ Avvio della Lotteria degli scontrini posticipato al 01.01.2021.
 <br>Fonte: [Decreto Legge 19 maggio  2020, n.34, articolo 141](https://www.gazzettaufficiale.it/eli/id/2020/05/19/20G00052/sg) 
 <br>(Decreto Legge 19 maggio 2020, n. 34 convertito, con modificazioni, dalla legge 17  luglio  2020,  n.  77, senza modifiche per articolo 141)
 
-La lotteria nazionale degli scontrini è il nuovo concorso a premi gratuito, collegato
-allo scontrino elettronico.
-Partecipare è semplice: dal 1° luglio 2020, infatti, tutti i cittadini maggiorenni e
+La lotteria nazionale degli scontrini è il nuovo concorso a premi gratuito, collegato allo scontrino elettronico.
+Partecipare è semplice: dal 1° gennaio 2021, infatti, tutti i cittadini maggiorenni e
 residenti in Italia che acquistano beni e servizi, di importo pari o superiore a 1
-euro, possono partecipare alle estrazioni annuali e mensili (dal 2021 anche
-settimanali). 
+euro, possono partecipare alle estrazioni annuali e mensili.
 <br>Fonte: [Agenzia Entrate](https://www.agenziaentrate.gov.it/portale/documents/20143/233439/Guida_Lotteria_Scontrini.pdf)
 
 ### 01.07.2020 - Credito d’imposta pagamenti digitale e limite contante a 2000 euro
