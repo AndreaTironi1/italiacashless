@@ -3,7 +3,7 @@
 Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pagamenti digitali, con l'obiettivo di migliorare l'efficienza dei pagamenti e ridurre l'evasione fiscale.
 
 “Dobbiamo lavorare per modernizzare il Paese, per una robusta transizione energetica, per un’Italia più inclusiva” ha detto il premier nella conferenza stampa di chiusura degli Stati Generali del 21.06.2020. Sul primo punto “tutti hanno condiviso il rafforzamento dell’Alta Velocità. Ancora, grande condivisione sul piano cashless. Tutte le componenti sane del Paese ci chiedono di contrastare l’economia sommersa”. Presidente Conte
-<br>Fonte: [FattoQuotidiani](https://www.ilfattoquotidiano.it/2020/06/21/stati-generali-conte-il-piano-cashless-per-favorire-i-pagamenti-digitali-ha-ricevuto-grande-sostegno-lo-chiedono-le-parti-sane-del-paese/5842971/)
+<br>Fonte: [IlFattoQuotidiano](https://www.ilfattoquotidiano.it/2020/06/21/stati-generali-conte-il-piano-cashless-per-favorire-i-pagamenti-digitali-ha-ricevuto-grande-sostegno-lo-chiedono-le-parti-sane-del-paese/5842971/)
 
 In questo spazio si cerca di mettere tutte le leggi, decreti e riferimenti associati a tale piano per dare un riferimento organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
