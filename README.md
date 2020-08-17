@@ -4,6 +4,8 @@ Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pa
 
 “Dobbiamo lavorare per modernizzare il Paese, per una robusta transizione energetica, per un’Italia più inclusiva” ha detto il premier nella conferenza stampa di chiusura degli Stati Generali del 21.06.2020. Sul primo punto “tutti hanno condiviso il rafforzamento dell’Alta Velocità. Ancora, grande condivisione sul piano cashless. Tutte le componenti sane del Paese ci chiedono di contrastare l’economia sommersa”. Presidente Conte
 
+In questo spazio si cerca di mettere tutte le leggi, decreti e riferimenti associati a tale piano per dare un riferimento organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
+
 ### 01.01.2022 -Limite contante a 1000 euro
 Articoli 18 e 22 del dl 124/2019.
 <br>Fonte: [Gazzetta ufficiale](https://www.gazzettaufficiale.it/eli/id/2019/10/26/19G00134/SG)
