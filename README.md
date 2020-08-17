@@ -1,6 +1,8 @@
-## Italia cashless
+# Italia cashless
 
-Italia cashless e' il nome dato dal Governo Italiano al tentativo di aumentare i pagamenti mediante strumenti digitali, con l'obiettivo di migliorare l'efficienza dei pagamenti e aumentare la lotta all'evasione fiscale.
+Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pagamenti digitali, con l'obiettivo di migliorare l'efficienza dei pagamenti e ridurre l'evasione fiscale.
+
+“Dobbiamo lavorare per modernizzare il Paese, per una robusta transizione energetica, per un’Italia più inclusiva” ha detto il premier nella conferenza stampa di chiusura degli Stati Generali del 21.06.2020. Sul primo punto “tutti hanno condiviso il rafforzamento dell’Alta Velocità. Ancora, grande condivisione sul piano cashless. Tutte le componenti sane del Paese ci chiedono di contrastare l’economia sommersa”. Presidente Conte
 
 ### 01.01.2022 -Limite contante a 1000 euro
 Articoli 18 e 22 del dl 124/2019.
