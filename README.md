@@ -1,3 +1,7 @@
+## Italia cashless
+
+Italia cashless e' il nome dato dal Governo Italiano al tentativo di aumentare i pagamenti mediante strumenti digitali, con l'obiettivo di migliorare l'efficienza dei pagamenti e aumentare la lotta all'evasione fiscale.
+
 ### 01.01.2022 -Limite contante a 1000 euro
 Articoli 18 e 22 del dl 124/2019.
 <br>Fonte: [Gazzetta ufficiale](https://www.gazzettaufficiale.it/eli/id/2019/10/26/19G00134/SG)
@@ -5,6 +9,10 @@ Articoli 18 e 22 del dl 124/2019.
 ### 01.01.2021 - Aumento soglia da 25 a 50 euro per pagamenti cashless senza pin
 A partire dal 1 gennaio 2021, Bancomat, Mastercard e Visa, al fianco di tutti i principali player del settore dei pagamenti, avvieranno un progressivo aumento della soglia per pagamenti contactless a 50 euro, al di sotto dei quali non sarà più previsto l'inserimento del codice Pin. 
 <br>Fonte: [IlSole24ore](https://www.ilsole24ore.com/art/pagamenti-contactless-fino-50-euro-senza-bisogno-inserire-codice-pin-ADuKQng)
+
+### Da definire - Cashback
+Al fine di incentivare l'utilizzo di  strumenti  di  pagamento elettronici, le persone fisiche maggiorenni residenti nel  territorio dello Stato, che, fuori dall'esercizio di attivita' d'impresa, arte o professione,  effettuano  abitualmente  acquisti  con  strumenti   di pagamento elettronici da soggetti che svolgono attivita'  di  vendita di beni e di prestazione di servizi, hanno diritto ad un rimborso  in denaro, alle condizioni e sulla  base  dei  criteri  individuati  dal decreto del Ministro dell'economia e delle finanze di  cui  al  comma 289.
+[DL 14 agosto 2020, n. 104](https://www.gazzettaufficiale.it/eli/id/2020/08/14/20G00122/sg) fa riferimento [Legge 27 dicembre 2019, n. 160](https://www.gazzettaufficiale.it/eli/id/2019/12/30/19G00165/sg)
 
 ### 01.01.2021 - Lotteria degli scontrini
 Avvio della Lotteria degli scontrini posticipato al 01.01.2021.
