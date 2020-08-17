@@ -3,6 +3,7 @@
 Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pagamenti digitali, con l'obiettivo di migliorare l'efficienza dei pagamenti e ridurre l'evasione fiscale.
 
 “Dobbiamo lavorare per modernizzare il Paese, per una robusta transizione energetica, per un’Italia più inclusiva” ha detto il premier nella conferenza stampa di chiusura degli Stati Generali del 21.06.2020. Sul primo punto “tutti hanno condiviso il rafforzamento dell’Alta Velocità. Ancora, grande condivisione sul piano cashless. Tutte le componenti sane del Paese ci chiedono di contrastare l’economia sommersa”. Presidente Conte
+<br>Fonte: [FattoQuotidiani](https://www.ilfattoquotidiano.it/2020/06/21/stati-generali-conte-il-piano-cashless-per-favorire-i-pagamenti-digitali-ha-ricevuto-grande-sostegno-lo-chiedono-le-parti-sane-del-paese/5842971/)
 
 In questo spazio si cerca di mettere tutte le leggi, decreti e riferimenti associati a tale piano per dare un riferimento organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
@@ -16,7 +17,7 @@ A partire dal 1 gennaio 2021, Bancomat, Mastercard e Visa, al fianco di tutti i 
 
 ### Da definire - Cashback
 Al fine di incentivare l'utilizzo di  strumenti  di  pagamento elettronici, le persone fisiche maggiorenni residenti nel  territorio dello Stato, che, fuori dall'esercizio di attivita' d'impresa, arte o professione,  effettuano  abitualmente  acquisti  con  strumenti   di pagamento elettronici da soggetti che svolgono attivita'  di  vendita di beni e di prestazione di servizi, hanno diritto ad un rimborso  in denaro, alle condizioni e sulla  base  dei  criteri  individuati  dal decreto del Ministro dell'economia e delle finanze di  cui  al  comma 289.
-[DL 14 agosto 2020, n. 104](https://www.gazzettaufficiale.it/eli/id/2020/08/14/20G00122/sg) fa riferimento [Legge 27 dicembre 2019, n. 160](https://www.gazzettaufficiale.it/eli/id/2019/12/30/19G00165/sg)
+<br>Fonte:[DL 14 agosto 2020, n. 104](https://www.gazzettaufficiale.it/eli/id/2020/08/14/20G00122/sg) fa riferimento [Legge 27 dicembre 2019, n. 160](https://www.gazzettaufficiale.it/eli/id/2019/12/30/19G00165/sg)
 
 ### 01.01.2021 - Lotteria degli scontrini
 Avvio della Lotteria degli scontrini posticipato al 01.01.2021.
