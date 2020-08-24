@@ -1,6 +1,6 @@
 # Italia cashless
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/AndreaTironi1/italiacashless/blob/master/cashless.jpg)
 
 Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pagamenti digitali, con l'obiettivo di migliorare l'efficienza dei pagamenti e ridurre l'evasione fiscale.
 
