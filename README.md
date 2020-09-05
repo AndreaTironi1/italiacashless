@@ -43,6 +43,6 @@ L’incentivo sui pagamenti digitali è un credito d’imposta, riconosciuto agl
 # Evasione Fiscale
 
 Spingere i pagamenti digitali è anche un modo per combattere l'evasione fiscale come indicato anche nel [post](https://medium.com/team-per-la-trasformazione-digitale/una-repubblica-digitale-e-inclusiva-per-tutti-i-cittadini-36ae7aee1d1a) di [Luca Attias](https://teamdigitale.governo.it/it/people/luca-attias.htm).
-
+<br><br>
 ![alt text](https://github.com/AndreaTironi1/italiacashless/blob/master/evasione-numeri.jfif)
 
