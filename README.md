@@ -10,7 +10,7 @@ Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pa
 In questo spazio si cerca di inserire tutte le leggi, decreti e riferimenti associati a tale piano per dare un riferimento organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
 ### Prossimi 20-30 anni - Linee guida per la definizione del Piano Nazionale di Ripresa e Resilienza.
-Il piano (al momento alla fase "linee guida" avrà un impatto sulla finanza, mondo del lavoro e sulle modalità di pagamento utilizzate dai cittadini e comunque segnerà i prossimi 20-30 anni del futuro dell'Italia. Per cui si considerare importante inserirlo nel documento. <br><br>
+Il piano (al momento alla fase "linee guida" avrà un impatto sulla finanza, mondo del lavoro e sulle modalità di pagamento utilizzate dai cittadini e comunque segnerà i prossimi 20-30 anni del futuro dell'Italia. Per cui si considerare importante inserirlo nel documento. <br>
 [PNRR](https://github.com/AndreaTironi1/italiacashless/blob/master/Bozza-Linee-Guida-PNRR-9.09.pdf)
 
 ### 01.01.2022 -Limite contante a 1000 euro
