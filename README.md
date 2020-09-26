@@ -11,11 +11,11 @@ In questo spazio si cerca di inserire tutte le leggi, decreti e riferimenti asso
 
 ### Prospettive Decreto Agosto
 Nell'approvazione del decreto Agosto, i ben informati dicono che dovrebbero esserci le seguenti operazioni per potenziare i pagamenti digitali. <br>
-[Prospettive del decreto Agosto ancora da approvare](https://www.corrierecomunicazioni.it/lavoro-carriere/smart-working/smart-working-nuova-normalita-ma-chi-paga-internet-e-pc/)
+[Prospettive del decreto Agosto ancora da approvare, fonte Corriere della Sera](https://www.corrierecomunicazioni.it/lavoro-carriere/smart-working/smart-working-nuova-normalita-ma-chi-paga-internet-e-pc/)
 
 ### Prossimi 20-30 anni - Linee guida per la definizione del Piano Nazionale di Ripresa e Resilienza.
 Il piano (al momento alla fase "linee guida" avrà un impatto sulla finanza, mondo del lavoro e sulle modalità di pagamento utilizzate dai cittadini e comunque segnerà i prossimi 20-30 anni del futuro dell'Italia. Per cui si considerare importante inserirlo nel documento. <br>
-[PNRR](https://github.com/AndreaTironi1/italiacashless/blob/master/Bozza-Linee-Guida-PNRR-9.09.pdf)
+[PNRR - Piano Nazionale di Ripresa e Resilienza - Post Covid 2019](https://github.com/AndreaTironi1/italiacashless/blob/master/Bozza-Linee-Guida-PNRR-9.09.pdf)
 
 ### 01.01.2022 -Limite contante a 1000 euro
 Articoli 18 e 22 del dl 124/2019.
