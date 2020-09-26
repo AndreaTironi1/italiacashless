@@ -9,7 +9,7 @@ Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pa
 
 In questo spazio si cerca di inserire tutte le leggi, decreti e riferimenti associati a tale piano per dare un riferimento organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
-### Prospettive Decreto Agosto
+### 26.09.2020 - Prospettive Decreto Agosto
 Nell'approvazione del decreto Agosto, i ben informati dicono che dovrebbero esserci le seguenti operazioni per potenziare i pagamenti digitali. <br>
 [Prospettive del decreto Agosto ancora da approvare, fonte Corriere della Sera](https://www.corrierecomunicazioni.it/lavoro-carriere/smart-working/smart-working-nuova-normalita-ma-chi-paga-internet-e-pc/)
 
@@ -17,7 +17,7 @@ Nell'approvazione del decreto Agosto, i ben informati dicono che dovrebbero esse
 Il piano (al momento alla fase "linee guida" avrà un impatto sulla finanza, mondo del lavoro e sulle modalità di pagamento utilizzate dai cittadini e comunque segnerà i prossimi 20-30 anni del futuro dell'Italia. Per cui si considerare importante inserirlo nel documento. <br>
 [PNRR - Piano Nazionale di Ripresa e Resilienza - Post Covid 2019](https://github.com/AndreaTironi1/italiacashless/blob/master/Bozza-Linee-Guida-PNRR-9.09.pdf)
 
-### 01.01.2022 -Limite contante a 1000 euro
+### 01.01.2022 - Limite contante a 1000 euro
 Articoli 18 e 22 del dl 124/2019.
 <br>Fonte: [Gazzetta ufficiale](https://www.gazzettaufficiale.it/eli/id/2019/10/26/19G00134/SG)
 
