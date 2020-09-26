@@ -9,6 +9,10 @@ Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pa
 
 In questo spazio si cerca di inserire tutte le leggi, decreti e riferimenti associati a tale piano per dare un riferimento organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
+### Prospettive Decreto Agosto
+Nell'approvazione del decreto Agosto, i ben informati dicono che dovrebbero esserci le seguenti operazioni per potenziare i pagamenti digitali. <br>
+[Prospettive del decreto Agosto ancora da approvare](https://www.corrierecomunicazioni.it/lavoro-carriere/smart-working/smart-working-nuova-normalita-ma-chi-paga-internet-e-pc/)
+
 ### Prossimi 20-30 anni - Linee guida per la definizione del Piano Nazionale di Ripresa e Resilienza.
 Il piano (al momento alla fase "linee guida" avrà un impatto sulla finanza, mondo del lavoro e sulle modalità di pagamento utilizzate dai cittadini e comunque segnerà i prossimi 20-30 anni del futuro dell'Italia. Per cui si considerare importante inserirlo nel documento. <br>
 [PNRR](https://github.com/AndreaTironi1/italiacashless/blob/master/Bozza-Linee-Guida-PNRR-9.09.pdf)
