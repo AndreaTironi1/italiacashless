@@ -9,6 +9,14 @@ Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pa
 
 In questo spazio si cerca di inserire tutte le leggi, decreti e riferimenti associati a tale piano per dare un riferimento organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
+### 03.10.2020 - Mini guida alle iniziative del piano italia cashless del governo
+Interessante articolo del sito Fintastico dove viene presentata una mini guida alle iniziative del piano italia cashless del governo.<br>
+[Mini Guida, fonte Fintastico](https://www.fintastico.com/it/blog/mini-guida-alle-iniziative-del-piano-italia-cashless-del-governo/)
+
+### 02.10.2020 - Rapporto Cashless Society Ambrosetti
+Rapporto di Ambrosetti sulla Cashless Society, 5 edizione.<br>
+[Rapporto Ambrosetti, 5 edizione](https://www.ambrosetti.eu/wp-content/uploads/Rapporto-Community-Cashless-Society-2020.pdf)
+
 ### 26.09.2020 - Prospettive Decreto Agosto
 Nell'approvazione del decreto Agosto, i ben informati dicono che dovrebbero esserci le seguenti operazioni per potenziare i pagamenti digitali. <br>
 [Prospettive del decreto Agosto ancora da approvare, fonte Corriere della Sera](https://www.corrierecomunicazioni.it/lavoro-carriere/smart-working/smart-working-nuova-normalita-ma-chi-paga-internet-e-pc/)
