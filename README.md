@@ -9,6 +9,11 @@ Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pa
 
 In questo spazio si cerca di inserire tutte le leggi, decreti e riferimenti associati a tale piano per dare un quadro organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
+### 23.11.2020 - Cashback per Dicembre 2020
+Probabilmente verrà attivato un piano di cashback per gli acquisti fatti non online e non in contanti nel mese di Dicembre, per spingere i consumi.
+[Cashback per Dicembre 2020](https://www.lastampa.it/economia/2020/11/22/news/in-arrivo-il-cashback-di-natale-fino-a-150-euro-di-rimborso-per-acquisti-con-carta-di-credito-1.39570517)
+
+
 ### 03.10.2020 - Mini guida alle iniziative del piano italia cashless del governo
 Interessante articolo del sito Fintastico dove viene presentata una mini guida alle iniziative del piano italia cashless del governo.<br>
 [Mini Guida, fonte Fintastico](https://www.fintastico.com/it/blog/mini-guida-alle-iniziative-del-piano-italia-cashless-del-governo/)
