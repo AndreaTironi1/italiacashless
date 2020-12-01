@@ -10,7 +10,7 @@ Italia cashless e' il nome dato dal Governo Italiano al piano per aumentare i pa
 In questo spazio si cerca di inserire tutte le leggi, decreti e riferimenti associati a tale piano per dare un quadro organico a chiunque voglia contribuirvi. Per chi fosse in grado può contribuirvi mediante github. Per chi non fosse può scrivere a: andrea.tironi AT gmail PUNTO com.
 
 ### 01.12.2020 - Piano Cashless in Gazzetta ufficiale
-[Cashback 2020-2022](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-11-28&atto.codiceRedazionale=20G00181&elenco30giorni=true)
+[Gazzaetta Ufficiale Cashback 2020-2022](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2020-11-28&atto.codiceRedazionale=20G00181&elenco30giorni=true)
 
 ### 23.11.2020 - Cashback per Dicembre 2020
 Probabilmente verrà attivato un piano di cashback per gli acquisti fatti non online e non in contanti nel mese di Dicembre, per spingere i consumi.
